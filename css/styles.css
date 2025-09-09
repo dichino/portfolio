@@ -4436,3 +4436,8 @@ td:last-child {
         right: -2rem;
     }
 }
+
+.spacer-16 { height: 16px; }
+.spacer-24 { height: 24px; }
+.spacer-32 { height: 32px; }
+.spacer-64 { height: 64px; }
